@@ -5,6 +5,8 @@ Excel dashboard project based on 31,000+ rows of sales data.
 📊 Dashboard Preview:
 ![Dashboard 1](screenshots/dashboard1.png)
 
+screenshots/dashboard1.png
+
 📥 Download Excel File:
 [Excel Dashboard.xlsx]
 
